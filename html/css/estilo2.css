@@ -1,0 +1,24 @@
+.conteudo{
+    background: #8ac7de;
+    border: 1px solid #191013;
+    width: 200px;
+    height: 200px;
+    margin: 5px 30px;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+p{
+    padding: 20px;
+}
+
+#conteudo-zero{
+    background: #cc0c39;
+    border: 1px solid #191013;
+    width: 1300px;
+    clear: both;
+}
+
