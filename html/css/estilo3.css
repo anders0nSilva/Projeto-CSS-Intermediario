@@ -1,0 +1,30 @@
+body{
+    background: #acbbbe;
+}
+
+#principal{
+    width: 1080px;
+    padding: 10px;
+    background-color: #71838a;
+    margin: 10px;
+}
+
+.noticia{
+    float: left;
+    background: #acbbbe;
+    padding: 5px;
+    width: 280px;
+    margin: 15px;
+}
+
+.imagens{
+    float: left;
+    background: #acbbbe;
+    padding: 5px;
+    width: 280px;
+    margin: 15px;
+}
+
+.clear{
+    clear: both;
+}
